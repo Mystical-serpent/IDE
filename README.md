@@ -6,8 +6,8 @@ Personal IDE made in python using tkinter for the backend and using subprocess t
     stderr=subprocess.PIPE,
     stdin=subprocess.PIPE,
     text=True
-)"
-This, stores the user code in temp_code file and that is opened and interpreted by cmd. The main programming area is does not contain functions like: indentation or syntax highlighting so the user must be careful when running a code. 
+)".
+ This, stores the user code in temp_code file and that is opened and interpreted by cmd. The main programming area is does not contain functions like: indentation or syntax highlighting so the user must be careful when running a code. 
 
 
 ![Image](https://github.com/user-attachments/assets/81170e97-b7f4-403a-addf-a6dc82bcec9f)
